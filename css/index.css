@@ -1,0 +1,29 @@
+body{
+    font-family: "Proxima Nova";
+}
+.container {
+    width: 600px;
+    margin: 0 auto;
+}
+#item{
+    background: green;
+    padding: 11px;
+    color:#ffffff;
+cursor: pointer;
+}
+.init{
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+}
+.last{
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+}
+fieldset{
+    border-radius: 8px;
+    margin-top: 30px;
+}
+.input{
+    width:100px;
+    height:20px;
+}
